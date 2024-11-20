@@ -1,1 +1,1 @@
-Clou Train DevOps git demo
+Cloud Train DevOps git demo
